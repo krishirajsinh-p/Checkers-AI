@@ -2,6 +2,8 @@
 
 An interactive American Checkers game featuring AI opponents powered by **Minimax** with alpha-beta pruning and **Q-Learning** reinforcement learning algorithms. Play against intelligent agents!
 
+<img width="807" height="824" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/a157418f-7aaa-4945-8b22-aa12596022ee" />
+
 ## Features
 
 - **Two AI Algorithms**:
